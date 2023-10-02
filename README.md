@@ -18,7 +18,7 @@ x frequency steps
 with 
 n time between steps. 
 
-Select Sine Square analog level 
+Select Sine or triangle with Analog level 
 or 
 Digital level Square waveform output... 
 
